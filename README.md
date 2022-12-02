@@ -10,7 +10,6 @@ Web Developer (Python)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on machine learning projects
 
-<a href="https://www.buymeacoffee.com/ksknysn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ### Skills
 
